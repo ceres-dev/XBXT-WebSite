@@ -4,21 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e41002f-75f5-4543-b981-c7f35925ed8e" name="Changes" comment="fin, por ahora">
-      <change afterPath="$PROJECT_DIR$/deploy.bat" afterDir="false" />
+    <list default="true" id="5e41002f-75f5-4543-b981-c7f35925ed8e" name="Changes" comment="Nueva Section About">
+      <change afterPath="$PROJECT_DIR$/public/img/Bitcoin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/Ethereum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/background-Donate.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/docu/VestaAlfa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/Donate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Donate.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/general.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/About.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/SingleMapArt.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/SingleMapArt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="73" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
         <option value="JSX File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -44,11 +62,14 @@
     <setting file="jar://$APPLICATION_HOME_DIR$/lib/app.jar!/resources/html5-schema/html5/sectional.rnc" root0="SKIP_INSPECTION" />
     <setting file="jar://$APPLICATION_HOME_DIR$/lib/app.jar!/resources/html5-schema/html5/web-forms.rnc" root0="SKIP_INSPECTION" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2sUSF47k6AMqiP73HC2Uk5v92CA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,13 +79,16 @@
     "Batch.deplay.executor": "Run",
     "Batch.deploy.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Cagut/IdeaProjects/XBXT-WebSite/public/img",
+    "last_opened_file_path": "C:/Users/Cagut/IdeaProjects/XBXT-WebSite/public/img/docu",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -87,15 +111,15 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\public\img" />
+      <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\src\pages" />
       <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\public\img\renderLayer" />
       <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\xbxt-web\src" />
       <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\xbxt-web\public" />
-      <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\src\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\public\img" />
       <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\public" />
       <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\public\javascript" />
-      <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\public\img" />
       <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\src\img" />
       <recent name="C:\Users\Cagut\IdeaProjects\XBXT-WebSite\public\css" />
     </key>
@@ -115,7 +139,7 @@
     <configuration name="deplay" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <module name="PaginaDeSever" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\Cagut\IdeaProjects\XBXT-WebSite" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SCRIPT_NAME" value="deplay.bat" />
       <option name="PARAMETERS" value="" />
@@ -126,7 +150,7 @@
     <configuration name="deploy" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <module name="PaginaDeSever" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\Cagut\IdeaProjects\XBXT-WebSite" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SCRIPT_NAME" value="deploy.bat" />
       <option name="PARAMETERS" value="" />
@@ -177,8 +201,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
       </set>
     </attachedChunks>
   </component>
@@ -257,6 +280,17 @@
       <workItem from="1752682745362" duration="6963000" />
       <workItem from="1752692996219" duration="54000" />
       <workItem from="1752693058833" duration="11397000" />
+      <workItem from="1752859852927" duration="21620000" />
+      <workItem from="1752903692004" duration="7000" />
+      <workItem from="1753148641568" duration="1117000" />
+      <workItem from="1753150775550" duration="4128000" />
+      <workItem from="1767157038671" duration="3027000" />
+      <workItem from="1767205258843" duration="9000" />
+      <workItem from="1770857866899" duration="2382000" />
+      <workItem from="1773611013940" duration="12512000" />
+      <workItem from="1773679684054" duration="166000" />
+      <workItem from="1775938787955" duration="618000" />
+      <workItem from="1776137864952" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -546,7 +580,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752711626924</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Nueva Section About">
+      <option name="closed" value="true" />
+      <created>1752890651619</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1752890651619</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +606,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix url" />
     <MESSAGE value="cambios menores" />
     <MESSAGE value="cambios en algunas imagenes" />
     <MESSAGE value="rework web 1" />
@@ -589,7 +630,8 @@
     <MESSAGE value="fix 16" />
     <MESSAGE value="fix 17" />
     <MESSAGE value="fin, por ahora" />
-    <option name="LAST_COMMIT_MESSAGE" value="fin, por ahora" />
+    <MESSAGE value="Nueva Section About" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nueva Section About" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

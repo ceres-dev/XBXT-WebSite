@@ -1,0 +1,28 @@
+.contentDonate{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+button{
+    background: #212121;
+}
+body{
+    background-attachment: fixed;
+    background-position: center;
+    background-image: url("/public/img/background-Donate.webp");
+}
+img{
+    width: 10%;
+}
+h1{
+    margin: 0;
+}
+#btcImg{
+    margin-left: 3%;
+}
+.idsWallets{
+    margin-top: 2%;
+}
+#info{
+    grid-column: 2 / 3;
+    grid-row: 1 / 3;
+}

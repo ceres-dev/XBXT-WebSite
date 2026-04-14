@@ -3,7 +3,7 @@
     --y: 0;
     --xp: 0;
     --yp: 0;
-    --bg: hsl(0, 0%, 22%);
+    --bg: hsl(0, 0%, 16%);
     --size: 400px;
     --glow: radial-gradient(50% 50% at center,
     rgba(164, 164, 164, 0.53),
@@ -157,7 +157,7 @@ a{
     color: #6168ef;
 }
 .subBox{
-    background-color: rgb(86, 86, 86);
+    background-color: rgb(59, 59, 59);
     border-radius: 0.7vh;
     padding-left: 8px;
     padding-right: 8px;

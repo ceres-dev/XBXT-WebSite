@@ -1,6 +1,6 @@
 .contentText{
-    min-width: 15rem;
-    height: 25rem;
+    width: 15rem;
+    height: min-content;
 }
 .refImg {
     flex-grow: 1;
@@ -9,7 +9,6 @@
 }
 .contentSection{
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-around;
 }
 .largeMapArt{
@@ -35,4 +34,17 @@ body{
     gap: 10px;
 }
 ul p{
+}
+@media (max-width: 75rem){
+    .contentSection{
+        align-items: center;
+        flex-direction: column;
+    }
+    .refImg {
+        flex-grow: 1;
+        width: 100%;
+    }
+    .contentText{
+        width: 50%;
+    }
 }

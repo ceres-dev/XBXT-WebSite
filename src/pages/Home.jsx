@@ -175,7 +175,7 @@ export default function HomePage () {
                     <h2>Características</h2>
                     <h3>Dupes</h3>
                     <p>
-                        Tiene virios dupes actual mente tiene Frame Dupe y Pisto Dupe
+                        Tiene varios dupes actual mente tiene Frame Dupe y Pisto Dupe
                     </p>
                     <h3>Abierto Para Todos</h3>
                     <p>
