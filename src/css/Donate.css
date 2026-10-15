@@ -19,6 +19,13 @@ h1{
 #btcImg{
     margin-left: 3%;
 }
+#solImg{
+    width: 2.8rem;
+    padding-left: 0.8rem;
+}
+#bnbImg{
+    margin-left: 3%;
+}
 .idsWallets{
     margin-top: 2%;
 }
